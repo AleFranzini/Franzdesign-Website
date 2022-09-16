@@ -1,5 +1,3 @@
-#### NB: currently changing domain, you can find the website at: https://main.d3ga1x2ga205wy.amplifyapp.com/  
-
 # www.franzdesign.eu
 ## Portfolio website "Franzdesign: Airbrush Studio" di Pietro Franzini
 Take a look at some of his works, since the 80's till nowadays.
